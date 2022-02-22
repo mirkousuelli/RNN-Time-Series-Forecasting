@@ -43,4 +43,4 @@ A  the  end,  the  Bayesian  optimization  tuning  producedthe following model:
 
 ## 5. Leadboard Evaluation
 - Development phase accuracy : **4.1252%**
-- Final phase accuracy : **NaN**
+- Final phase accuracy : **---**
