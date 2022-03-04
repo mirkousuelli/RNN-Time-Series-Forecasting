@@ -42,5 +42,5 @@ A  the  end,  the  Bayesian  optimization  tuning  producedthe following model:
 ![image](/img/futs.png)
 
 ## 5. Leadboard Evaluation
-- Development phase accuracy : **4.1252%**
-- Final phase accuracy : **---**
+- Development phase RMSE : **4.1252**
+- Final phase RMES : **---**
